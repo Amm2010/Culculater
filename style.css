@@ -4,13 +4,11 @@
     max-width: 300px;
     background-color: rgb(38, 92, 53);
     margin: auto;
-    margin-top: 25%;
+    margin-top: 60px;
     border-radius: 10px;
     padding: 20px;
     border: black double 12px;
-    transition: 0.5s;
-    height: 50vh;
-}
+    transition: 0.5s;}
 
 #mainDiv:hover {
     border: 12px double  rgb(38, 92, 53);
