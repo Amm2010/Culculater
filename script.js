@@ -1,5 +1,6 @@
 
 const resultdiv = document.getElementById("resultDiv");
+
 var equation = "";
 
 function addNumber(number) {
